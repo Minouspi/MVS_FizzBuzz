@@ -1,0 +1,3 @@
+C:/Users/minou/CLionProjects/MVS_FizzBuzz/cmake-build-debug/CMakeFiles/MVS_FizzBuzz.dir
+C:/Users/minou/CLionProjects/MVS_FizzBuzz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/minou/CLionProjects/MVS_FizzBuzz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
